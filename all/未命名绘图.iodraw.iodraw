@@ -18,11 +18,10 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eddA988WbCrZLQhPW7L-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="90" y="360" as="sourcePoint" />
-            <mxPoint x="190" y="360" as="targetPoint" />
-            <Array as="points" />
+        <mxCell id="-eddA988WbCrZLQhPW7L-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
