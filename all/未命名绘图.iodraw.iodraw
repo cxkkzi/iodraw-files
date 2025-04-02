@@ -54,7 +54,7 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-28" value="KEY2触发" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eddA988WbCrZLQhPW7L-29" value="KEY1触发" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-eddA988WbCrZLQhPW7L-29" value="" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
