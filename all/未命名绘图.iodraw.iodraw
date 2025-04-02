@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SDio6mOYtei3Pd_hAzAq-1" value="初始化LED" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
