@@ -39,14 +39,14 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-16" value="关闭所有LED" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eddA988WbCrZLQhPW7L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-eddA988WbCrZLQhPW7L-18" target="-eddA988WbCrZLQhPW7L-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-eddA988WbCrZLQhPW7L-18" value="主循环开始" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eddA988WbCrZLQhPW7L-22" value="KEY1触发" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="710" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
