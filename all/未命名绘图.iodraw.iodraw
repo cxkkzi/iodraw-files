@@ -63,6 +63,9 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-31" value="KEY2触发" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="980" width="125" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
