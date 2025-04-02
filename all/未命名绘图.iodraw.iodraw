@@ -18,12 +18,6 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eddA988WbCrZLQhPW7L-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.867;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-eddA988WbCrZLQhPW7L-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="310" as="sourcePoint" />
-            <mxPoint x="160" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
