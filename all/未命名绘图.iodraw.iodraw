@@ -39,8 +39,14 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-16" value="关闭所有LED" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-eddA988WbCrZLQhPW7L-18" target="-eddA988WbCrZLQhPW7L-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-eddA988WbCrZLQhPW7L-18" value="主循环开始" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-20" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="760" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
