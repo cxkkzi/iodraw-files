@@ -27,8 +27,14 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="157.5" y="350" width="125" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-eddA988WbCrZLQhPW7L-14" target="-eddA988WbCrZLQhPW7L-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-eddA988WbCrZLQhPW7L-14" value="中断配置" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-16" value="中断配置" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
