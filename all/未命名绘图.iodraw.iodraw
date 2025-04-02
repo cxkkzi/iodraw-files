@@ -63,8 +63,8 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-31" value="KEY2触发" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eddA988WbCrZLQhPW7L-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="750" width="50" height="100" as="geometry" />
+        <mxCell id="-eddA988WbCrZLQhPW7L-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="960" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
