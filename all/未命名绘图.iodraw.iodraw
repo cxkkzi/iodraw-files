@@ -24,6 +24,9 @@
         <mxCell id="-eddA988WbCrZLQhPW7L-9" value="按键初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="290" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-eddA988WbCrZLQhPW7L-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="222.5" y="367.5" width="60" height="125" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
